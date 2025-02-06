@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: funny_facts
+type: duckdb
+options:
+  filename: funny_facts.db

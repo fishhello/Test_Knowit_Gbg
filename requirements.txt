@@ -1,0 +1,4 @@
+requests
+dbt-duckdb
+duckdb
+pandas
